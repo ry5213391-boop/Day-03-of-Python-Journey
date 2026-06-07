@@ -23,7 +23,8 @@ name = "Roshan"
 age = 20
 
 print(f"My name is {name} and I am {age} years old.")
-3. String Indexing
+
+### 3. String Indexing
 
 Accessing individual characters using their position.
 
@@ -33,7 +34,7 @@ text = "Python"
 
 print(text[0])   # P
 print(text[-1])  # n
-4. String Slicing
+### 4. String Slicing
 
 Extracting a portion of a string.
 
@@ -43,7 +44,7 @@ text = "Python"
 
 print(text[0:3])   # Pyt
 print(text[2:6])   # thon
-5. String Operations
+### 5. String Operations
 
 Practiced common string operations:
 
